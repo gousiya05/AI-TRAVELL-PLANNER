@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An intelligent travel planner that generates detailed destination information, itineraries, and tips using the Gemini API. Explore popular places or search for any destination to get a customized travel guide.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
